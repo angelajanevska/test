@@ -9,3 +9,6 @@
 /MovieTicketsWebApp.Data/obj
 /MovieTicketsWebApp.Repo/obj
 /MovieTicketsWebApp.Service/obj
+/MovieTicketsWebApp.Data/bin/Debug/net6.0
+/MovieTicketsWebApp.Repo/bin/Debug/net6.0
+/MovieTicketsWebApp.Service/bin/Debug/net6.0
