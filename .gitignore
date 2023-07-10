@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MovieTicketsWebApp/.vs/MovieTicketsWebApp
+/MovieTicketsWebApp/bin/Debug/net6.0
+/MovieTicketsWebApp/obj
+/MovieTicketsWebApp.Data/obj
+/MovieTicketsWebApp.Repo/obj
+/MovieTicketsWebApp.Service/obj
