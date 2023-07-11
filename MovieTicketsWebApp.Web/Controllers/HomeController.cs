@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MovieTicketsWebApp.Web.Models;
+using MovieTicketsWebApp.Domain.Models;
 using System.Diagnostics;
 
 namespace MovieTicketsWebApp.Web.Controllers
