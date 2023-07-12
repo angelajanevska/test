@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MovieTicketsWebApp.Data\MovieTicketsWebApp.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
