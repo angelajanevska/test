@@ -44,13 +44,6 @@ namespace MovieTicketsWebApp.Web.Data.Migrations
                 nullable: false,
                 defaultValue: "");
 
-            migrationBuilder.AddColumn<string>(
-                name: "UserName",
-                table: "AspNetUsers",
-                type: "nvarchar(256)",
-                maxLength: 256,
-                nullable: true);
-
             migrationBuilder.CreateTable(
                 name: "Movies",
                 columns: table => new
