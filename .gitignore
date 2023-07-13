@@ -14,3 +14,8 @@
 /MovieTicketsWebApp.Service/bin/Debug/net6.0
 /MovieTicketsWebApp.Web/bin/Debug/net6.0
 /MovieTicketsWebApp.Web/obj
+/MovieTicketsWebApp/MovieTicketsWebApp.Service/obj
+/MovieTicketsWebApp/MovieTicketsWebApp.Web/bin/Debug/net6.0
+/MovieTicketsWebApp/MovieTicketsWebApp.Web/obj
+/MovieTicketsWebApp/MovieTicketsWebApp.Domain/bin/Debug/net6.0
+/MovieTicketsWebApp/MovieTicketsWebApp.Domain/obj
